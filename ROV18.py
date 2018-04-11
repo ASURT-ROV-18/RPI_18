@@ -3,7 +3,7 @@ from Lift_Bag_Communicator import *
 from Interrupter import *
 from Publisher import *
 from Motion import *
-# from Sensor import *
+from Sensor import *
 
 # import the Hat module (comment for testing)
 from Hat import *
