@@ -199,10 +199,10 @@ class Motion(Component):
     def _moveCamera(self):
         camera_servo_value = self._hardware.getDeviceValue('camera_servo')
 
-        if self._valueMap['cam_down'] and camera_servo_value <= 500:
+        if self._valueMap['cam_up'] and camera_servo_value <= 500:
             camera_servo_value = camera_servo_value + 10
 
-        elif self._valueMap['cam_up'] and camera_servo_value >= 310:
+        elif self._valueMap['cam_down'] and camera_servo_value >= 310:
             camera_servo_value = camera_servo_value - 10
 
         self._servos["camera_servo"] = camera_servo_value
