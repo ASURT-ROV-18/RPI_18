@@ -112,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/communication/TcpCommunication.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="91" column="131" lean-forward="true" selection-start-line="91" selection-start-column="131" selection-end-line="91" selection-end-column="131" />
+              <caret line="91" column="148" lean-forward="false" selection-start-line="91" selection-start-column="148" selection-end-line="91" selection-end-column="148" />
               <folding />
             </state>
           </provider>
@@ -553,13 +553,6 @@
       <option name="presentableId" value="Default" />
       <updated>1514795069138</updated>
     </task>
-    <task id="LOCAL-00187" summary="Original Equations of Motion">
-      <created>1519989405630</created>
-      <option name="number" value="00187" />
-      <option name="presentableId" value="LOCAL-00187" />
-      <option name="project" value="LOCAL" />
-      <updated>1519989405630</updated>
-    </task>
     <task id="LOCAL-00188" summary="vertical">
       <created>1519990723286</created>
       <option name="number" value="00188" />
@@ -896,7 +889,14 @@
       <option name="project" value="LOCAL" />
       <updated>1523495643590</updated>
     </task>
-    <option name="localTasksCounter" value="236" />
+    <task id="LOCAL-00236" summary="50% vertical adeena bengarab">
+      <created>1523497306068</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
+      <option name="project" value="LOCAL" />
+      <updated>1523497306068</updated>
+    </task>
+    <option name="localTasksCounter" value="237" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1253,7 +1253,7 @@
     <entry file="file://$PROJECT_DIR$/communication/TcpCommunication.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="91" column="131" lean-forward="true" selection-start-line="91" selection-start-column="131" selection-end-line="91" selection-end-column="131" />
+          <caret line="91" column="148" lean-forward="false" selection-start-line="91" selection-start-column="148" selection-end-line="91" selection-end-column="148" />
           <folding />
         </state>
       </provider>
