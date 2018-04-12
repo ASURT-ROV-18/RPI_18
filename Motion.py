@@ -18,7 +18,7 @@ class Motion(Component):
         self.MOTORS_BASE_PWM = 305
         self.FULL_ROTATION_COEFFICIENT = 0.3 * 1.65
         self.MAXTHRUST = 0.5
-        self.VMAXTHRUST = 0.6
+        self.VMAXTHRUST = 0.5
 
         self.prev_value = self.PWMNORMAL
 
